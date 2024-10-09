@@ -55,6 +55,7 @@ class Programm
         return size;
     }
 
+
     /// <summary>
     /// Рекурсия - удаление файлов, сохраненых более 30 минут назад
     /// </summary>
